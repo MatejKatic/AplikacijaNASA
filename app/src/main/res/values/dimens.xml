@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ivSplashHeight">500dp</dimen>
+    <dimen name="splashTextSize">30sp</dimen>
+    <dimen name="paddingAbout">20dp</dimen>
+    <dimen name="aboutTextSize">20sp</dimen>
+    <dimen name="nhWidth">150dp</dimen>
+    <dimen name="nhHeight">100dp</dimen>
+    <dimen name="nhMarginTop">25dp</dimen>
+    <dimen name="nvWidth">162dp</dimen>
+    <dimen name="nvHeight">240dp</dimen>
+    <dimen name="cornerRadius">9dp</dimen>
+    <dimen name="paddingItems">10dp</dimen>
+    <dimen name="ivSize">50dp</dimen>
+    <dimen name="marginLeftItems">20dp</dimen>
+    <dimen name="textSizeItems">20sp</dimen>
+    <dimen name="ivHeight">300dp</dimen>
+    <dimen name="marginTopDate">20dp</dimen>
+    <dimen name="autoSizeMinTextSizeTextView">5sp</dimen>
+    <dimen name="autoSizeMaxTextSizeTextView">100sp</dimen>
+    <dimen name="autoSizeStepTextView">5sp</dimen>
+    <dimen name="app_bar_height">50dp</dimen>
+    <dimen name="star_size">30dp</dimen>
+    <dimen name="grid_mars_photo_item_size">130dp</dimen>
+    <dimen name="round_corners_size">10dp</dimen>
+</resources>
